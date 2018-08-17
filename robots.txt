@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.creativetroops.com.br/sitemap.xml
+Sitemap: http://creativetroops.github.io/sitemap.xml
