@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'motorless_hammeredregular';
+    src: url('../../../fonts/Motorless-Hammered-webfont.eot');
+    src: url('../../../fonts/Motorless-Hammered-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/Motorless-Hammered-webfont.woff2') format('woff2'),
+         url('../../../fonts/Motorless-Hammered-webfont.woff') format('woff'),
+         url('../../../fonts/Motorless-Hammered-webfont.ttf') format('truetype'),
+         url('../../../fonts/Motorless-Hammered-webfont.svg#motorless_hammeredregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'moon_flower_boldregular';
+    src: url('../../../fonts/Moon-Flower-Bold-webfont.eot');
+    src: url('../../../fonts/Moon-Flower-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../../fonts/Moon-Flower-Bold-webfont.woff2') format('woff2'),
+         url('../../../fonts/Moon-Flower-Bold-webfont.woff') format('woff'),
+         url('../../../fonts/Moon-Flower-Bold-webfont.ttf') format('truetype'),
+         url('../../../fonts/Moon-Flower-Bold-webfont.svg#moon_flower_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

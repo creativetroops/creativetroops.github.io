@@ -1,0 +1,1 @@
+Jobs={init:function(){$("#owl-job-pics").owlCarousel({navigation:!1,autoPlay:!0,pagination:!0,singleItem:!0})}},$(document).ready(function(){Jobs.init()});
