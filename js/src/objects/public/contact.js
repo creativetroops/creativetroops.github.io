@@ -18,7 +18,8 @@ Contact = {
 				    name: name.val(),
 				    email: email.val(),
 				    message: msg.val(),
-				},
+                },
+                datatype: 'json',
                 success: function (result) {
                     console.log(result);
                     $("#form-alerts").empty().html(result);
