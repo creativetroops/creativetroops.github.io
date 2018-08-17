@@ -3,7 +3,7 @@ Contact = {
         var name  = $("#name");
         var email = $("#email");
         var msg   = $("#msg");
-        $("#btn-send").on("click", function () { Contact.validateMsg(name, email, msg) });
+        $("#btn-send").on("click", function (e) { e.preventDefault(); Contact.validateMsg(name, email, msg) });
     },
     validateMsg: function (name, email, msg) {
         Contact.sendMsg(name, email, msg);
